@@ -1,3 +1,2 @@
-# new_duckie
+# techup-gm-learning
 
-I am a little duckie learning how to code.
